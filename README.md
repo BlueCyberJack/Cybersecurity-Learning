@@ -22,3 +22,4 @@ Similarly, policing has instilled in me the importance of adhering to policies a
 
 [Coursera - Introduction to Cybersecurity Tools & Cyberattacks.pdf](https://github.com/user-attachments/files/19554416/Coursera.-.Introduction.to.Cybersecurity.Tools.Cyberattacks.pdf)
 
+^^ **Review of this course and learning coming soon** ^^
