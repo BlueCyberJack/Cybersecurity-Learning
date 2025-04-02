@@ -50,3 +50,9 @@ Beyond the course, I pursued additional learning on vulnerability scanners. Whil
 One tool he demonstrated was Nessus, though he explained that multiple scanning tools exist, each with unique features. Gerard's videos have been extremely helpful, and his content even inspired me to create this portfolio on GitHub to document my learning journey.
 
 
+
+### CompTIA Security+ Certificate 
+
+I am currently in the process of studying for this certification and once obtained, I will be providing evidence of my learning and new knowledge, and skills learned. 
+
+
